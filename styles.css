@@ -1,0 +1,28 @@
+body {
+    color:black;
+    background: lightblue;
+    font-family: "Space Grotesk", sans-serif;
+}
+
+header {
+    border-bottom: solid 3px rgb(36, 159, 216);
+    font-size: large;
+    color: rgb(36, 159, 216);
+    font-style: oblique;
+}
+
+element.style {
+    background: rgb(36, 159, 216);
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: large;
+}
+
+p {
+    font-size: medium;
+}
